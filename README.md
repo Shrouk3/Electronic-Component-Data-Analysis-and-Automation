@@ -1,4 +1,5 @@
-# Electronic-Component-Data-Analysis-and-Automation
+# Electronic-Component-Data-Analysis-and-visualization
+
 https://www.kaggle.com/datasets/shroukmohamed98/electronic-components 
 Dataset Description
 The dataset will include the following columns:
