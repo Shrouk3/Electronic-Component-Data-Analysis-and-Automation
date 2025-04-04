@@ -1,4 +1,4 @@
-# Electronic-Component-Data-Analysis-and-visualization
+# Electronic-Components-Data-Analysis-and-visualization
 
 https://www.kaggle.com/datasets/shroukmohamed98/electronic-components 
 Dataset Description
